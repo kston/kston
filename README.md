@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Keneston Coelho
 
 
-  💬 I'm a Junior Frontend Web Developer, currently living in Brazil. 
+  💬 I'm a Front End Junior Web Developer, currently living in Brazil. 
   
    ⚡ Fun fact:  I used to travel around the world but then someone ate a bat.
 
