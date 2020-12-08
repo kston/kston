@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Keneston Coelho
+### Hi 👋, I'm Keneston Coelho
 
 
   💬 I'm a Junior Frontend Web Developer, currently living in Brazil. 
